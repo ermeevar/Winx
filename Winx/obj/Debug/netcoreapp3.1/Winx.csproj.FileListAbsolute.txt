@@ -1,0 +1,13 @@
+C:\Users\r.ermeeva\Desktop\Winx\Winx\bin\Debug\netcoreapp3.1\Winx.exe
+C:\Users\r.ermeeva\Desktop\Winx\Winx\bin\Debug\netcoreapp3.1\Winx.deps.json
+C:\Users\r.ermeeva\Desktop\Winx\Winx\bin\Debug\netcoreapp3.1\Winx.runtimeconfig.json
+C:\Users\r.ermeeva\Desktop\Winx\Winx\bin\Debug\netcoreapp3.1\Winx.runtimeconfig.dev.json
+C:\Users\r.ermeeva\Desktop\Winx\Winx\bin\Debug\netcoreapp3.1\Winx.dll
+C:\Users\r.ermeeva\Desktop\Winx\Winx\bin\Debug\netcoreapp3.1\Winx.pdb
+C:\Users\r.ermeeva\Desktop\Winx\Winx\obj\Debug\netcoreapp3.1\Winx.csprojAssemblyReference.cache
+C:\Users\r.ermeeva\Desktop\Winx\Winx\obj\Debug\netcoreapp3.1\Winx.AssemblyInfoInputs.cache
+C:\Users\r.ermeeva\Desktop\Winx\Winx\obj\Debug\netcoreapp3.1\Winx.AssemblyInfo.cs
+C:\Users\r.ermeeva\Desktop\Winx\Winx\obj\Debug\netcoreapp3.1\Winx.csproj.CoreCompileInputs.cache
+C:\Users\r.ermeeva\Desktop\Winx\Winx\obj\Debug\netcoreapp3.1\Winx.dll
+C:\Users\r.ermeeva\Desktop\Winx\Winx\obj\Debug\netcoreapp3.1\Winx.pdb
+C:\Users\r.ermeeva\Desktop\Winx\Winx\obj\Debug\netcoreapp3.1\Winx.genruntimeconfig.cache
